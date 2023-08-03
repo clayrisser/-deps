@@ -1,0 +1,14 @@
+{
+  "name": "deps",
+  "version": "0.0.2",
+  "description": "manage deps using make",
+  "author": "Clay Risser <clayrisser@gmail.com>",
+  "repo": "git@gitlab.com:bitspur/mkpm/packages.git",
+  "source": "https://gitlab.com/bitspur/mkpm/deps.git",
+  "packages": {
+    "default": {}
+  },
+  "repos": {
+    "default": "https://gitlab.com/bitspur/mkpm/packages.git"
+  }
+}

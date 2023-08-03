@@ -1,6 +1,5 @@
 .depsignore
+
+# mkpm
 /*.tar.gz
-.mkpm/*
-**/.mkpm/*
-!/.mkpm/.cache.tar.gz
-!/.mkpm/.bootstrap.mk
+.mkpm/mkpm
